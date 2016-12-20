@@ -1,3 +1,4 @@
 {
-    "grossEstateValue": "A number greater than or equal to zero is required"
+    "residenceNilRateBand": 1000,
+    "transferableResidenceNilRateBand": 1000
 }
